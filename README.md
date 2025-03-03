@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,figma" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,js,java,git,eclipse,figma" />
+  </a>
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbbean&layout=compact)
