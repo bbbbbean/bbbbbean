@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py" />
   </a>
 </p>
 
