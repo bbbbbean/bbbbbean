@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+### 🌱 I’m currently learning ...
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,py,ai,ps" />
   </a>
 </p>
+
+### Used languages💬
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbbean&layout=compact)
